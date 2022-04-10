@@ -16,10 +16,10 @@ The potential mentor must be meet prior criteria for retirement designation. In 
 ![Schema](Resources/EmployeeDB.png)
 
 1. Currently, there are 72,458 retirement-eligible employees. 
-2. The largest group of expected retirees are currently employed as Senior Engineers.</br> 
+2. The largest group of expected retirees are currently employed as Senior Engineers, at 25,916 employees. It can be assumed that this group will require the greatest number of promotions/incoming hires to maintain normal operations. </br> 
 ![Retirement Titles](Resources/retirement_titles.png)
-3. 
-4. 
+3. The smallest group of expected retirees are currently employed as Managers, at 2 employees. New hiring for these positions will not need to be prioritized as much as the Senior Engineer position. 
+4. There are currently 1,449 employees eligible to act as mentors to newer employees. 
 
 ## Summary
 - Provide high-level responses to the following questions, then provide two additional queries or tables tha tmay provide more insight into the upcoming 'silver tsunami'
@@ -27,6 +27,6 @@ The potential mentor must be meet prior criteria for retirement designation. In 
 -- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees? 
 
 #### Additional Query One: Which department will be most heavily impacted by retirement wave? 
-Based on the obtained list of expected retirees, the department that will be the most heavily impacted by the 'silver tsunami' as older employees retire will be Development at 20,451 expected retirees.
+Based on the obtained list of expected retirees, the department that will be the most heavily impacted by the 'silver tsunami' as older employees retire will be Development at 20,451 expected retirees.</br> 
 ![Losses by Department](Resources/losses_by_dep.png) 
 #### Additional Query Two
