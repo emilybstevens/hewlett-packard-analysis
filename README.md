@@ -16,7 +16,7 @@ The potential mentor must be meet prior criteria for retirement designation. In 
 ![Schema](Resources/EmployeeDB.png)
 
 1. Currently, there are 72,458 retirement-eligible employees. 
-2. The largest group of expected retirees are currently employed as Senior Engineers. 
+2. The largest group of expected retirees are currently employed as Senior Engineers.</br> 
 ![Retirement Titles](Resources/retirement_titles.png)
 3. 
 4. 
