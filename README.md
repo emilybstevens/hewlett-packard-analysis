@@ -1,7 +1,6 @@
 # hewlett-packard-analysis
 
 ## Overview
-- Pupose of Analysis is well defined
 The purpose of this analysis is to investigate the number of employees expected to be retiring based on a determined estimate of average retirement age. 
 In addition, further investigation was done to determine the feasibility of founding a mentoship program in preparation for the expected departures, based on personnel capacity at the current time. 
 
@@ -13,14 +12,21 @@ The potential mentor must be meet prior criteria for retirement designation. In 
 
 
 ## Results
+### Database Utilized 
 ![Schema](Resources/EmployeeDB.png)
 
 1. Currently, there are 72,458 retirement-eligible employees. 
-2. 
-- Bulleted list with four major points from the two analysis deliverables
-- Use images for support as needed
+2. The largest group of expected retirees are currently employed as Senior Engineers. 
+![Retirement Titles](Resources/retirement_titles.png)
+3. 
+4. 
 
 ## Summary
 - Provide high-level responses to the following questions, then provide two additional queries or tables tha tmay provide more insight into the upcoming 'silver tsunami'
 -- how many roles will need to be filled as the 'silver tsunami' begins to make an impact
 -- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees? 
+
+#### Additional Query One: Which department will be most heavily impacted by retirement wave? 
+Based on the obtained list of expected retirees, the department that will be the most heavily impacted by the 'silver tsunami' as older employees retire will be Development at 20,451 expected retirees.
+![Losses by Department](Resources/losses_by_dep.png) 
+#### Additional Query Two
