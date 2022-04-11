@@ -1,4 +1,4 @@
-# hewlett-packard-analysis
+# pewlett-hackard-analysis
 
 ## Overview
 The purpose of this analysis is to investigate the number of employees expected to be retiring based on a determined estimate of average retirement age. 
@@ -30,13 +30,17 @@ There will be experience gaps all throughout the employment ladder if hiring pro
 Ideally, new employees would be brought on as soon as possible in order to train everyone as much as possible prior to the exit of the retiring employees. </br></br>
 As of right now, it would appear that the company is short on mentors if the planned approach is to operate on a 1:1 mentor:mentee relationship.
 A possible solution would be to increase the number of mentees each mentor takes on. This does run the risk of lowering the quality of the mentorship program, but it would guarantee that more people have access to the additional training that is expected to be necessary. 
+
 #### Recommendations 
 - Hire often and soon for all titles
 - Begin the process of shuttling potential promotees into mentorship programs to help them gain necessary experience prior to promotion
 - Ideally, aim to overstaff the company for the time being. This may cause a short-term decrease in net company profits, but it will ensure that productivity will not suffer when the retirement wave begins. 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees? 
 
-#### Additional Query One: Which department will be most heavily impacted by retirement wave? 
+#### Additional Queries
+##### Which department will be most heavily impacted by retirement wave? 
 Based on the obtained list of expected retirees, the department that will be the most heavily impacted by the 'silver tsunami' as older employees retire will be Development at 20,451 expected retirees.</br> 
 ![Losses by Department](Resources/losses_by_dep.png) 
-#### Additional Query Two
+
+##### What budget surplus will be created by the retirement wave by department? 
+Based on the obtained list of expected retirees, the department that will experience the largest payroll budget surplus after the retirement wave rolls through will be Development. </br> 
+![Budget Surplus](Resources/salary_by_department.png) 

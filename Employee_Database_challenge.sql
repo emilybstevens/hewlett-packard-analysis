@@ -60,6 +60,25 @@ WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY emp_no ASC;
 
 
+-- ADDTL QUERIES ************************************************
+
+
+-- unique_titles to salaries to grab retiring salaries
+
+SELECT dl.emp_no, dl.dept_name, s.salary
+INTO salary_loss 
+FROM dep_losses as dl
+INNER JOIN salaries as s 
+ON(dl.emp_no = s.emp_no)
+ORDER BY emp_no ASC
+
+SELECT SUM(sl.salary),sl.dept_name
+INTO salary_loss_dept
+FROM salary_loss as sl 
+GROUP BY dept_name
+ORDER BY SUM(salary) DESC
+
+SELECT * FROM salary_loss_dept
 
 
 
