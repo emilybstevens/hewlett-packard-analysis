@@ -23,11 +23,11 @@ The potential mentor must be meet prior criteria for retirement designation. In 
 ## Summary
 
 While an exact number of necessary replacements cannot be determined based off of the information analyzed, it should be noted that the expected employee loss is staggering. 
-The company is expected to lose both numbers and experience, as the retiring employees are likely the ones with the most on-the-job experience. 
-In order to ensure a smooth transition, all focus should be put into ensuring that the employees who will carry the torch after the retiring employees leave are fully trained and capable of replacing their elders. 
+The company is expected to lose both numbers and experience, as the retiring employees are likely the ones with the most on-the-job experience.</br></br>  
+In order to ensure a smooth transition, all focus should be put into guaranteeing that the employees who will carry the torch after the retiring employees leave are fully trained and capable of replacing their elders. 
 Recommendations for hiring quotas would be to - ideally - have a 1:1 replacement plan in place for both the retiring employees AND the employees that will be internally promoted. 
-There will be experience gaps all throughout the employment ladder if hiring processes do not beging soon. 
-Ideally, new employees would be brought on as soon as possible in order to train everyone as much as possible prior to the exit of the retiring employees. </br> 
+There will be experience gaps all throughout the employment ladder if hiring processes do not begin soon. 
+Ideally, new employees would be brought on as soon as possible in order to train everyone as much as possible prior to the exit of the retiring employees. </br></br>
 As of right now, it would appear that the company is short on mentors if the planned approach is to operate on a 1:1 mentor:mentee relationship.
 A possible solution would be to increase the number of mentees each mentor takes on. This does run the risk of lowering the quality of the mentorship program, but it would guarantee that more people have access to the additional training that is expected to be necessary. 
 #### Recommendations 
